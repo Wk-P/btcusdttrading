@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Collected market data
+data/
+*.csv
+*.parquet
+
+# Trained models
+models/
+
+
+# linux service
+**/*.service
